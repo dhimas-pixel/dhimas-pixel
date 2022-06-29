@@ -10,6 +10,8 @@
   <br/>
     <a href="https://github.com/dhimas-pixel/"><img alt="Stephanus Dhimas Hulio Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhimas-pixel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+<img alt="dhimas-pixel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhimas-pixel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
 
 
