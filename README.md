@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhimas Mbuh</h1>
 <h3 align="center">I'm currently trying to become a fullstack web & mobile developer</h3>
 
+- 📫 How to reach me **ephanzen4@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stephanus dhimas hulio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanus dhimas hulio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stephanusdhimas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanusdhimas" height="30" width="40" /></a>
 <a href="https://instagram.com/_mbuhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mbuhhhhh" height="30" width="40" /></a>
 </p>
 
